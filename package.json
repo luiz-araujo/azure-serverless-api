@@ -1,0 +1,12 @@
+{
+  "name": "azure-serverless-api",
+  "version": "0.0.1",
+  "description": "Serverless API para Gestão de Produtos utilizando Node.js desenvolvido no Bootcamp Node.js Web Developer da DIO",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "mongodb": "^3.2.7"
+  }
+}
